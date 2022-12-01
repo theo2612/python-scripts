@@ -1,9 +1,10 @@
 from getopt import gnu_getopt
 import random
-name = "Brad"
-# name = input("What is your name? ")
-question = "Will I win the lottery"
-# question = input("What is your question? ")
+#name = "Brad"
+name = input("What is your name? ")
+#question = "Will I win the lottery"
+question = input("What is your question? ")
+
 answers = [
   "Yes - definately.",
   "It is decidedly so.",
